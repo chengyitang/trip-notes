@@ -132,4 +132,4 @@
 
 [查看完整地圖](https://www.google.com/maps/d/edit?mid=1sl8JxFVxS8VFNEJS1l5s2SlzJPCoWwQ&usp=sharing)
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1sl8JxFVxS8VFNEJS1l5s2SlzJPCoWwQ&ehbc=2E312F" width="640" height="480"></iframe>
+![](mymap.png)
